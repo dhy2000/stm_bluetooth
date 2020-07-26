@@ -1,3 +1,12 @@
+# My Ignore
+
+/Debug/**
+/Binaries/**
+
+
+# .gitignore module of language c
+
+
 # Prerequisites
 *.d
 
